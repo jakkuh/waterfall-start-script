@@ -10,5 +10,5 @@ By default the script is set to use 4GB of RAM. Make sure you `chmod +x` all thr
 Deploy command:
 
 ```
-wget https://raw.githubusercontent.com/jakkuh/paper-1.12.2-start-script/master/loop.sh && wget https://raw.githubusercontent.com/jakkuh/paper-1.12.2-start-script/master/start.sh && wget https://raw.githubusercontent.com/jakkuh/paper-1.12.2-start-script/master/update.sh && chmod +x loop.sh start.sh update.sh
+wget https://raw.githubusercontent.com/jakkuh/waterfall-start-script/master/loop.sh && wget https://raw.githubusercontent.com/jakkuh/waterfall-start-script/master/start.sh && wget https://raw.githubusercontent.com/jakkuh/waterfall-start-script/master/update.sh && chmod +x loop.sh start.sh update.sh
 ```
